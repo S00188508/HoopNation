@@ -1,0 +1,19 @@
+.img-fluid {
+	width: 1500px;
+	height: 300px;
+}
+
+.title {
+	text-align: center;
+	margin: auto;
+}
+.container-md {
+	align-content: center;
+	margin: auto;
+		
+}
+
+.container-sm {
+	padding-top: 10px;
+}
+
